@@ -1,4 +1,4 @@
-
+![Screenshot_1699193272](https://github.com/Ajibola14/crypto_coin_app/assets/109934367/9835a7c9-f853-40c8-91fd-b3770019a6a1)
 
 # CryptoTop250 App
 
@@ -12,8 +12,7 @@ CryptoTop250 is a Flutter app that retrieves data from a cryptocurrency API to d
 
 ## Screenshots
 
-[Screenshot_1699192475](https://github.com/Ajibola14/crypto_coin_app/assets/109934367/943368c3-ab44-4edd-9e96-158143496f9b)
-
+[Uploading Screenshot_1699193272.png…]()
 
 ## Getting Started
 
